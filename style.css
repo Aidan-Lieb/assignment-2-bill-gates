@@ -1,0 +1,25 @@
+img.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-style: solid;
+}
+h1.title {
+  border-style: solid;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(27, 27, 27);
+  text-align: center;
+}
+p.caption {
+  text-align: center;
+  font-size: 90%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p.body {
+  font-size: 130%;
+  border-style: solid;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
